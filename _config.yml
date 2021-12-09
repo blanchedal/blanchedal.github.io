@@ -54,7 +54,7 @@ plainwhite:
 
 # Build settings
 #  theme: plainwhite
-theme: jekyll-theme-cayman
+theme: Minima
 
 plugins:
   - jekyll-seo-tag
