@@ -53,8 +53,8 @@ plainwhite:
 # - about.md
 
 # Build settings
-#  theme: plainwhite
-theme: Minima
+ theme: plainwhite
+# theme: Minima
 
 plugins:
   - jekyll-seo-tag
